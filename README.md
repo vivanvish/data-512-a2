@@ -32,7 +32,8 @@ The estimated article results are stored locally as `data/page_data_with_scores.
 
 [Wikimedia Terms and Conditions](https://wikimediafoundation.org/wiki/Terms_of_Use/en)
 
-The Wikipedia data is licensed under [MIT](https://opensource.org/licenses/MIT)
+The Wikipedia data is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+It is not clear how the Population data is licensed.
 
 ### Data
 All data files that are used for the analysis are stored in the `data`. Some of them are the raw data that were downloaded from the source, whereas others are intermediate files saved during processing to for convenience and to ensure reproducibility.  
